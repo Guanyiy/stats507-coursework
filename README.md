@@ -1,2 +1,2 @@
 # stats507-coursework
-HW material for stats 507 Fall 2024
+HW materials for stats 507 Fall 2024
